@@ -10,7 +10,7 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB  
 - **Outros:** Git, GitHub, Docker, WebSockets, JWT
 ## Contato
-- 📧 Email: seuemail@gmail.com  
+- 📧 Email: Nicollas.05.07.07@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/nicollas-gabriel-5072902b9/](https://linkedin.com/in/nicollas-gabriel-5072902b9/)  
 - 🐙 GitHub: [github.com/ySheet4](https://github.com/ySheet4)
 - 

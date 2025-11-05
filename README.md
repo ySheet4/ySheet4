@@ -30,5 +30,7 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-61DAFB?style=for-the-badge&logo=rest&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-339933?style=for-the-badge&logo=oauth&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ySheet4&show_icons=true&theme=radical)

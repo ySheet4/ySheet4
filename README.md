@@ -9,6 +9,10 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 - **Backend:** Django, Python, Node.js, REST APIs  
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB  
 - **Outros:** Git, GitHub, Docker, WebSockets, JWT
-
+## Contato
+- 📧 Email: seuemail@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- 🐙 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

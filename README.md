@@ -11,7 +11,7 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 - **Outros:** Git, GitHub, Docker, WebSockets, JWT
 ## Contato
 - 📧 Email: seuemail@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/nicollas-gabriel-5072902b9/)  
+- 💼 LinkedIn: [linkedin.com/in/nicollas-gabriel-5072902b9/](https://linkedin.com/in/nicollas-gabriel-5072902b9/)  
 - 🐙 GitHub: [github.com/ySheet4](https://github.com/ySheet4)
 - 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

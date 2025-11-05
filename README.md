@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Nicollas Martins
+# Nicollas Martins
 Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web. 🚀
 ## Sobre mim
 - 💻 Estudante de TI / Técnico em Informática  

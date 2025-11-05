@@ -33,5 +33,5 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 - 💼 LinkedIn: [linkedin.com/in/nicollas-gabriel-5072902b9/](https://linkedin.com/in/nicollas-gabriel-5072902b9/)  
 - 🐙 GitHub: [github.com/ySheet4](https://github.com/ySheet4)
 
-# Es
+# Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ySheet4&show_icons=true&theme=radical)

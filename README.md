@@ -9,11 +9,6 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 - **Backend:** Django, Python, Node.js, REST APIs  
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB  
 - **Outros:** Git, GitHub, Docker, WebSockets, JWT
-## Contato
-- 📧 Email: Nicollas.05.07.07@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/nicollas-gabriel-5072902b9/](https://linkedin.com/in/nicollas-gabriel-5072902b9/)  
-- 🐙 GitHub: [github.com/ySheet4](https://github.com/ySheet4)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -32,5 +27,9 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 ![REST API](https://img.shields.io/badge/REST-API-61DAFB?style=for-the-badge&logo=rest&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-339933?style=for-the-badge&logo=oauth&logoColor=white)
+## Contato
+- 📧 Email: Nicollas.05.07.07@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/nicollas-gabriel-5072902b9/](https://linkedin.com/in/nicollas-gabriel-5072902b9/)  
+- 🐙 GitHub: [github.com/ySheet4](https://github.com/ySheet4)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ySheet4&show_icons=true&theme=radical)

@@ -29,5 +29,6 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-339933?style=for-the-badge&logo=oauth&logoColor=white)
 ## Contato
-- 📧 [Email](mailto:nicollas.05.07.07@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicollas-martins-5072902b9/)
+
+[![Email](https://img.shields.io/badge/Email-nicollas.05.07.07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollas.05.07.07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicollas%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-martins-5072902b9/)

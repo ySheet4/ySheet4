@@ -29,5 +29,5 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-339933?style=for-the-badge&logo=oauth&logoColor=white)
 ## Contato
-- 📧 Email: nicollas.05.07.07@gmail.com
-- 💼 LinkedIn: [Nicollas Martins](https://www.linkedin.com/in/nicollas-martins-5072902b9/)
+- 📧 Email: nicollas.05.07.07@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicollas-martins-5072902b9/)

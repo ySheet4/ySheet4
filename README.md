@@ -29,9 +29,5 @@ Desenvolvedor(a) de software apaixonado(a) por TI, automação e tecnologias web
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-339933?style=for-the-badge&logo=oauth&logoColor=white)
 ## Contato
-- 📧 Email: Nicollas.05.07.07@gmail.com
+- 📧 Email: nicollas.05.07.07@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/nicollas-gabriel-5072902b9/](https://linkedin.com/in/nicollas-gabriel-5072902b9/)  
-- 🐙 GitHub: [github.com/ySheet4](https://github.com/ySheet4)
-
-# Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ySheet4&show_icons=true&theme=radical)
